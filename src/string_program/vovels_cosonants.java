@@ -16,6 +16,7 @@ public class vovels_cosonants
              k++;
          }
 	 }
+	 //printing vowels and consonants
 	 System.out.println("vowels in string "+k);
 	 System.out.println("consonants in a string"+" "+(a.length-k));
 	 
